@@ -1,4 +1,4 @@
-# find-default
+# find-default-prediction-of-credit-card-fraud
 This repository contains the code and resources for a data science project that utilizes K-Nearest Neighbors (KNN) with SMOTE (Synthetic Minority Oversampling Technique) to detect fraudulent credit card transactions.
 
 ## Project Purpose
